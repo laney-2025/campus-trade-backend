@@ -1,0 +1,7 @@
+target/
+.idea/
+.proxyai/
+exportToHTML/
+*.iml
+.mvn/wrapper/maven-wrapper.jar
+.DS_Store
